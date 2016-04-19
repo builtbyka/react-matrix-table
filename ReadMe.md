@@ -1,4 +1,4 @@
-#React Clientside boilerplate with hot loading.
+#React Static chart
 
 See it working at [kerrianneellis.co.uk/staticchart](http://kerrianneellis.co.uk/staticchart/)
 
