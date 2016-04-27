@@ -1,4 +1,4 @@
-#React Static chart
+#Matrix table
 
 See it working at [kerrianneellis.co.uk/staticchart](http://kerrianneellis.co.uk/staticchart/)
 
